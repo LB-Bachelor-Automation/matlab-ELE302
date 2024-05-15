@@ -4,8 +4,10 @@ This is some Matlab code. Feel free to use it as you wish.
 
 ----------------------------------------------------------
 
-The "function" folder contains functions.
-Copy it to your workspace. if you want to keep the folder intact use the command:
+The "function" folder contains functions.  
+Copy it to your workspace.
+
+If you want to keep the folder intact use the command:
 
 ```matlab
 
